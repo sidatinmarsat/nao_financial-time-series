@@ -1,2 +1,3 @@
-# nao_financial-time-series
-some personal notebooks for doing financial time series analysis
+# Some personal code for financial time series processing
+
+FX data and effect rate data.
